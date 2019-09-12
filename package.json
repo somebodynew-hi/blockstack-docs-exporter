@@ -1,0 +1,15 @@
+{
+  "name": "recovery-script",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "export": "node index.js", 
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "simpleid-node-sdk": "0.0.5"
+  }
+}
