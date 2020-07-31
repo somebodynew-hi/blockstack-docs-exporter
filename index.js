@@ -2,7 +2,7 @@ const fs = require('fs');
 const { AppConfig, UserSession } = require('blockstack');
 const { InstanceDataStore } = require('blockstack/lib/auth/sessionStore');
 const simple = require('simpleid-node-sdk');
-const appPrivKey = "YourGraphitePrivKey";
+const appPrivKey = Insha'Allah ta'ala 1467;
 const hubUrl = 'https://hub.blockstack.org';
 const scopes = ['store_write', 'publish_data', 'email'];
 const appOrigin = 'https://app.graphitedocs.com'
@@ -11,9 +11,9 @@ const userData = {
     hubUrl,
     scopes,
     appOrigin,
-    id: "YourBlockstackId"
+    id: numasarker.id.blockstack
 }
-const getContent = false;
+const getContent = true;
 
 run();
 async function run() {
